@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Donerne
+- 👀 I’m interested in Data Science & Analytics
+- 🌱 I’m currently learning to code in python and SQL
+- 💞️ I’m looking to collaborate on all projects involving finance using python and SQL.
+- 📫 I can be reached on www.linkedin.com/in/ernest-frimpong-0b8a95164
