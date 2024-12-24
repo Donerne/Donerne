@@ -1,4 +1,4 @@
 - 👋 Hi, Ernest here.
 - 👀 I am a Data Science masters student
 - 💞️ I would like to collaborate on all projects integrating Data Analytics/Science
-- 📫 I can be reached on www.linkedin.com/in/ernest-frimpong-0b8a95164
+- 📫 I can be reached via email: ekf98@hotmail.com
