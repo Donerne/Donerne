@@ -1,4 +1,4 @@
 - 👋 Hi, Ernest here.
-- 👀 I am a Data Science masters student
+- 👀 I am a Data Science masters student at the University of Guelph
 - 💞️ I would like to collaborate on all projects integrating Data Analytics/Science
 - 📫 I can be reached via email: ekf98@hotmail.com
